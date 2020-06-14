@@ -1,0 +1,30 @@
+
+
+
+@media only screen and (max-width: 1200px){
+.head{
+
+	width: 100%;
+}
+
+@media only screen and (max-width: 1023px){
+.head{
+
+	width: 100%;
+}
+}
+@media only screen and (max-width: 767px){
+.head{
+
+	width: 100%;
+}
+}
+
+
+
+@media only screen and (max-width: 400px){
+.head{
+
+	width: 100%;
+}
+}
