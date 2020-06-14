@@ -447,6 +447,9 @@ input[type=submit]:hover{
    input[type=email]{
     width:120px;
    }
+	  .footer ul{
+		  padding-left:0px;
+		  padding-right:10px;}
 
    
    .footer_navigation-items{
@@ -458,6 +461,7 @@ margin-right: 0px;
   
   .collabo{
     padding-left: 0px;
+	  font-size:90%;
   }
   .works  .facilities-main .facilities-wrapper-inner .facility {
     border: 1px solid #edd;
@@ -487,17 +491,17 @@ margin-right: 0px;
  height: 30px;
 }
 .story{
-    margin-left: 4rem;
+    margin-left: 2rem;
     height: 150px;
-    font-size: 80%;
+    font-size: 60%;
 }
 .story img{
     height: 70px;
 }
 .stories{
-    margin-left: 4rem;
+    margin-left: 3rem;
     height: 150px;
-    font-size: 80%;
+    font-size: 60%;
 }
 .stories img{
     height: 65px;
