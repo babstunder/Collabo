@@ -410,7 +410,7 @@ input[type=submit]:hover{
   }
 
 
-  @media (max-width: 850px) {
+  @media (max-width: 650px) {
     .works  .facilities-main .facilities-wrapper-inner {
       flex-direction: column;
       margin-left: 15px;
@@ -477,7 +477,7 @@ margin-right: 0px;
     background: white;
 
   }
-  @media (max-width: 850px) {
+  @media (max-width: 650px) {
     .works  .facilities-main .facilities-wrapper-inner .facility {
       width: 60%;
       border-top:  none;
@@ -561,7 +561,7 @@ margin-right: 0px;
     cursor: pointer;
   }
 }
-  @media (max-width:850px) {
+  @media (max-width:650px) {
    .works .facilities-main #explore-wrap #explore button {
       padding: 10px 20px;
     }
