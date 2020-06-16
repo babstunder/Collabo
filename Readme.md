@@ -39,6 +39,7 @@
 			</button>
 		</nav>
 		</header>
+		
 	<div id="hidden">
 		<nav id="side">
 			<ul>
@@ -164,20 +165,20 @@ A quick review on how to get started</p>
 	
 	
 	<p class="okkkk">
-		Got the opportunity to meet talented people through collabo had great experience with working in teams.<br>A wonderful place to improve one's ability.
+		Got the opportunity to meet talented people through collabo,<br> had great experience with working in teams.<br>A wonderful place to improve one's ability.
 	</p>
 	<img src="img/gate.png" alt="gate" class="stored">
 </div>
 	</section>
 	
-		<div class="works">
+		<div class="partners">
 		<div class="testimonials-main">
 			<div class="banner">
 			<h2 class="working">Our Parners.</h2>
 			
 
 				
-			</div>
+			
 		
  <ul class="mainly">
 			    	
@@ -189,7 +190,9 @@ A quick review on how to get started</p>
 			    	
 			    </ul>
 			</div>
+			</div>
 		</div>
+
 	
 		<div class="footer">
 
