@@ -39,7 +39,7 @@
 			</button>
 		</nav>
 		</header>
-		
+
 	<div id="hidden">
 		<nav id="side">
 			<ul>
@@ -165,7 +165,7 @@ A quick review on how to get started</p>
 	
 	
 	<p class="okkkk">
-		Got the opportunity to meet talented people through collabo,<br> had great experience with working in teams.<br>A wonderful place to improve one's ability.
+		 Had great experience with working in teams.<br>A wonderful place to improve one's ability.
 	</p>
 	<img src="img/gate.png" alt="gate" class="stored">
 </div>
