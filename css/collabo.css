@@ -6,7 +6,33 @@ body{
     margin: 0;
     padding:0;
     font-family: 'Arial';
+} .pro{
+    padding-top: 0px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url( ../img/austin.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    margin-left: 0rem;
+    margin-top: 0rem;
+
+
 }
+.pat{
+    color: green;
+}
+.head h2{
+    color: white;
+}
+.head{
+    padding-top: 70px;
+    padding-left: 50px;
+}
+.mainly{
+    display: inline-flex;
+    width: 100%;
+    margin: 30px auto;
+}
+ 
 
 	
 
@@ -108,16 +134,11 @@ body{
     }
     .hamburger{
         display: none;
-    }
-
-.pro{
-
-    margin-left: 3rem;
-    margin-top: 8rem;
+    
 }
 .pat{
     text-decoration: none;
-    color: #05635D;
+   
 
     
 }
@@ -126,13 +147,15 @@ body{
 
 .head h1{
     font-weight: bolder;
+    color: white;
+    font-size: 300%;
 
 }
 .head h2{
-    font-size: 100%;
+    font-size: 180%;
     margin-top: 3rem;
     margin-bottom: 4rem;
-    color:black;
+    color:white;
 }
 .start{
     background:#05635D; 
@@ -179,6 +202,8 @@ padding-top: 10px;
 
     
 }
+
+
 .mainly ul{
     margin-left:2rem;
     align-items: center;
@@ -508,7 +533,7 @@ margin-right: 0px;
     }
     .pro{
     padding-top: 0px;
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url( ../img/austin.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url( ../img/aus.jpg);
     background-position: center;
     background-size: cover;
     height: 70vh;
@@ -649,11 +674,21 @@ margin-right: 0px;
        display: inline-flex;
 
     width: 100%;
-    align-items:center;
-    padding-right: 20px;
+
+
+    margin: 10px auto;
 
     padding-left: 0px;
 
+    }
+    .mainly li{
+        margin: 0 auto;
+    }
+    .head h1{
+        font-size: 120%;
+    }
+    .head h2{
+        font-size: 100%;
     }
     .main-text{
         margin-left: 0px;
@@ -917,3 +952,12 @@ margin-right: 0px;
 }
 
 
+ @media (max-width:330px) {
+    input[type=email]{
+        width:70px;
+    }
+
+    .stories{
+        font-size: 55%;
+    
+    }
