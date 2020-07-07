@@ -5,7 +5,7 @@ body{
     height: 100%;
     margin: 0;
     padding:0;
-    font-family: 'Arial';
+    font-family: 'DM Sans';
     margin-right: 0px;
 } .pro{
     padding-top: 0px;
@@ -122,7 +122,7 @@ body{
 }
 .main-nav.Login a:link{
     color: black ;
-    font-family: 'Arial';
+    font-family: 'DM Sans';
     font-weight: bold;
 }
 .Login a:hover{
@@ -164,7 +164,7 @@ body{
     background:#05635D; 
     color: white;
     padding: 12px 18px;
-    font-family: 'Arial';
+    font-family: 'DM Sans';
     text-decoration: none;
     border: 2px solid #05635D;
     font-size:80%;
@@ -384,7 +384,7 @@ form{
   }
   .works .facilities-main .banner h2 {
     font-size: 150%;
-    font-family: "Trebuchet MS";
+    font-family: 'DM Sans';
     font-weight: bold;
     padding-top: 50px;
   }
@@ -616,7 +616,7 @@ margin-right: 0px;
     margin: 5% 0;
   }
   .works  .facilities-main .facilities-wrapper-inner .facility .fac-content {
-    font-family: Montserrat;
+    font-family:'DM Sans';
     font-style: normal;
     font-weight: normal;
     font-size: 94%;
@@ -634,7 +634,7 @@ margin-right: 0px;
     background: #71ce47;
     border-radius: 8px;
     border: 0;
-    font-family: Poppins;
+    font-family: 'DM Sans';
     padding: 1.5% 5%;
     cursor: pointer;
   }
